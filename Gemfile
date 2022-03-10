@@ -75,3 +75,5 @@ group :test do
 end
 
 gem "bootstrap"
+gem "jquery-rails"
+gem "rails_autolink"
